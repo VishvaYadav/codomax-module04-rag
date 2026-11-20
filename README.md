@@ -5,6 +5,8 @@ Intern: **Vishva Yadav** · B.E. Computer Engineering
 
 <a href="https://colab.research.google.com/github/VishvaYadav/codomax-module04-rag/blob/main/Module04_RAG_Embeddings_VectorDB.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+
+🌐 **Live app:** [vishva-chat-docs.streamlit.app](https://vishva-chat-docs.streamlit.app)
 Upload a PDF, TXT or Markdown file and ask questions about it. The app answers **only from your documents**, **cites its
 sources**, and says *"I couldn't find this"* instead of making things up.
 
